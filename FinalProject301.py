@@ -17,8 +17,7 @@ model = AbstractModel()
 from pyomo.opt import SolverStatus, TerminationCondition 
 
 """ In a separate edition that we made, we included a "loading" screen that tracks if the model is actively solving and also the
-time it took to solve. We did not include this in this submission because it was AI generated, and we did not understand it. We have
-this model and can provide it to you if you would like it, granted you will use this code at some point."""
+time it took to solve. We have this model and can provide it to you if you would like it, granted you will use this code at some point."""
 
 
 # SETS
